@@ -1,0 +1,4 @@
+node_modules
+includes/.env
+vendor
+DS.Store

@@ -1,0 +1,23 @@
+{
+  "name": "omarsoliscarvajal/notaria",
+  "description": "Proyecto PHP 8, MVC, SQL, Tailwindcss",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "MVC\\": "./",
+      "Controllers\\": "./controllers",
+      "Model\\": "./models",
+      "Classes\\": "./classes"
+    }
+  },
+  "authors": [
+    {
+      "name": "Dev-socar",
+      "email": "omar.fsc19@gmail.com"
+    }
+  ],
+  "require": {
+    "phpmailer/phpmailer": "^6.9",
+    "vlucas/phpdotenv": "^5.6"
+  }
+}

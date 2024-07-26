@@ -1,0 +1,19 @@
+{
+  "name": "CRM Dev",
+  "version": "1.0.0",
+  "description": "Proyecto de un CRM con PHP 8, MVC, TailwindCSS, MySQL & Vanilla JS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "css": "npx tailwindcss -i public/css/config.css -o public/css/app.css --watch"
+  },
+  "author": "Omar Fernando Solis Carvajal",
+  "license": "ISC",
+  "dependencies": {
+    "sweetalert2": "^11.10.4",
+    "toastify-js": "^1.12.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.6"
+  }
+}
