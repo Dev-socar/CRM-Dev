@@ -9,7 +9,7 @@ CRM para manejar clientes y eventos; asi mismo, se puede agendar los eventos, mo
 
 ## 💻 Aplicación FullStack
 
-## 🧰 Stack de desarrollo
+## 🧰 Stack de desarrollo LAMP
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
